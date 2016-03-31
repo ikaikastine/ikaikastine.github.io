@@ -9,9 +9,8 @@
 title: The Journey of a Man
 email: ikaikastine@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Guitar and gear enthusiast, programmer, tech guy, Jesus follower. These are the
+  random thoughts of a man as he journies through wherever life might take him.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "ikaikastine.github.io" # the base hostname & protocol for your site
 twitter_username: ikaikastine
