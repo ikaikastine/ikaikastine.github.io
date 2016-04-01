@@ -27,10 +27,8 @@ distorted tones. Now I focus on clean or slightly overdriven tones, layered with
 delay and reverb.
 
 ##### My Gear
-Guitar - PRS SE Singlecut with D'Addario NYXL 10s
-
-Amp - Vox AC15 with stock tubes
-
+Guitar - PRS SE Singlecut with D'Addario NYXL 10s  
+Amp - Vox AC15 with stock tubes  
 Effects:
 
 * MXR DynaComp
