@@ -30,6 +30,7 @@ delay and reverb.
 Guitar - PRS SE Singlecut with D'Addario NYXL 10s
 Amp - Vox AC15 with stock tubes
 Effects:
+
 * MXR DynaComp
 * TC Electronics PolyTune 2 Mini
 * Electro Harmonix Soul Food
