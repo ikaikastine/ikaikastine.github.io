@@ -28,7 +28,9 @@ delay and reverb.
 
 ##### My Gear
 Guitar - PRS SE Singlecut with D'Addario NYXL 10s
+
 Amp - Vox AC15 with stock tubes
+
 Effects:
 
 * MXR DynaComp
