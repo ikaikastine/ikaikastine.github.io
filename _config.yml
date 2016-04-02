@@ -18,3 +18,5 @@ github_username:  ikaikastine
 
 # Build settings
 markdown: kramdown
+
+exclude: [vendor]
