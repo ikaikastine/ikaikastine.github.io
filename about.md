@@ -46,4 +46,4 @@ been able to learn a little about Ruby in the process.
 
 Feel free to check out my Github page to see any projects or things that I've
 been working on which can be found at
-{% include icon-github.html username="ikaikastine" %} / ikaikastine
+{% include icon-github.html username="ikaikastine" %}
