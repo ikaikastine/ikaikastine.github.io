@@ -20,3 +20,5 @@ github_username:  ikaikastine
 markdown: kramdown
 
 exclude: [vendor]
+
+baseurl:
