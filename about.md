@@ -6,8 +6,9 @@ permalink: /about/
 
 My name is Kevin Stine. I'm 21 years old from the San Fransisco Bay Area.
 Currently I live in Corvallis, Oregon where I'm studying Computer Science at
-Oregon State University. I'm currently the lead electric guitar player for
-Mosaic Church, a new church plant in Eugene Oregon.
+Oregon State University. I'm also the lead electric guitar player for
+Mosaic Church, a new church plant in Eugene Oregon. You can check us out at
+[Mosaic Eugene](http://mosaiceugene.com/)
 
 ### Guitar
 I love guitar, specifically electric. I've been playing for about 10 years,
