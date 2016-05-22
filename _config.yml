@@ -10,7 +10,8 @@ title: The Journey of a Man
 email: ikaikastine@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   The random thoughts and musings of a man as he journies through life. Tech stuff,
-  guitar gear, etc. Anything that comes to mind is fair game.
+  guitar gear, bible quotes, the list goes on and on.
+  Anything that comes to mind is fair game.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "ikaikastine.github.io" # the base hostname & protocol for your site
 twitter_username: ikaikastine
