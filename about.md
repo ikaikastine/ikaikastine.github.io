@@ -11,17 +11,10 @@ Mosaic Church, a new church plant in Eugene Oregon.
 
 ### Guitar
 I love guitar, specifically electric. I've been playing for about 10 years,
-and while that is a long time, I would by no means say I'm an expert. My early
-years of guitar playing were focused around playing pop-punk songs and bands
-such as blink-182, Yellowcard, etc. As my skills and guitar knowledge increased,
-I began to focus more on playing heavier things, jumping into the post-hardcore,
-metalcore, and heavy rock genres.
-
-Currently, as I've got more invested in playing for church, I've drifted away
-from the heavy genres and focused more on Prayer & Worship styles of music. This
-has been quite the learning curve for me as I'm used to playing with heavily
-distorted tones. Now I focus on clean or slightly overdriven tones, layered with
-delay and reverb.
+and while that is a long time, I would by no means say I'm an expert. I'm
+currently into playing Praise & Worship style music and have been learning
+to layer effects together to create those lush soundscapes you hear in modern
+P&W music.
 
 #### My Gear
 Guitar - PRS SE Singlecut with D'Addario NYXL 10s  
