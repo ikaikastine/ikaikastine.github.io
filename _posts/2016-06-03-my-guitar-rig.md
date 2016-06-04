@@ -1,9 +1,7 @@
 ---
 layout: post
 title: My Guitar Rig
-excerpt_separator: "<!--more-->"
 ---
-
 Short rundown of my guitar rig including guitar, amp and pedals.  
 <!--more-->  
 
