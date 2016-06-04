@@ -5,7 +5,6 @@ excerpt_separator: <!--more-->
 ---
 Short rundown of my guitar rig including guitar, amp and pedals.
 <!--more-->
-## My Guitar Rig
 I love guitar, specifically electric. I've been playing for about 10 years,
 and while that is a long time, I would by no means say I'm an expert. I'm
 currently into playing Praise & Worship style music and have been learning
