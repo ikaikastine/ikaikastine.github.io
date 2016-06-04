@@ -5,14 +5,13 @@ excerpt_separator: <!--more-->
 ---
 Short rundown of my guitar rig including guitar, amp and pedals.
 <!--more-->  
-
+### The Gear
 I love guitar, specifically electric. I've been playing for about 10 years,
 and while that is a long time, I would by no means say I'm an expert. I'm
 currently into playing Praise & Worship style music and have been learning
 to layer effects together to create those lush soundscapes you hear in modern
-P&W music.
+P&W music.  
 
-### My Gear
 Guitar - PRS SE Singlecut  
 Amp - Vox AC15 with JJ EL84s and stock 12AX7s  
 Strings - D'Addario NYXL 11's  
