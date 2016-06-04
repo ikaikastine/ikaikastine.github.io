@@ -10,26 +10,6 @@ Oregon State University. I'm also the lead electric guitar player for
 Mosaic Church, a new church plant in Eugene Oregon. You can check us out at
 [Mosaic Eugene](http://mosaiceugene.com/).
 
-### Guitar
-I love guitar, specifically electric. I've been playing for about 10 years,
-and while that is a long time, I would by no means say I'm an expert. I'm
-currently into playing Praise & Worship style music and have been learning
-to layer effects together to create those lush soundscapes you hear in modern
-P&W music.
-
-#### My Gear
-Guitar - PRS SE Singlecut with D'Addario NYXL 10s  
-Amp - Vox AC15 with stock tubes  
-Effects:
-
-* MXR DynaComp
-* TC Electronics PolyTune 2 Mini
-* Electro Harmonix Soul Food
-* Boss SD-1 Super Overdrive
-* Ernie Ball VP JR.
-* TC Electronics Flashback Delay
-* TC Electronics Hall of Fame Reverb
-
 ### Tech
 As a Computer Scientist, I love technology and all things tech related. I really
 enjoy learning new programming languages and discovering the various nuances
