@@ -1,9 +1,8 @@
 ---
 layout: post
 title: My Guitar Rig
+excerpt: Short rundown of my guitar rig including guitar, amp and pedals.
 ---
-Short rundown of my guitar rig including guitar, amp and pedals.  
-<!--more-->  
 
 ### The Gear
 I love guitar, specifically electric. I've been playing for about 10 years,
