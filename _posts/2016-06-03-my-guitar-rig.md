@@ -24,4 +24,4 @@ Pedals (In order or signal chain):
 * TC Electronics Flashback Delay
 * TC Electronics Hall of Fame Reverb
 
-![SD-1 Close Up](/assets/sd1.jpeg)
+![SD-1 Close Up](/assets/pedalboard.jpeg)
