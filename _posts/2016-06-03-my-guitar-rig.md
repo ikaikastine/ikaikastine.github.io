@@ -10,9 +10,9 @@ to layer effects together to create those lush soundscapes you hear in modern
 P&W music.
 
 ### My Gear
-Guitar - PRS SE Singlecut
-Amp - Vox AC15 with JJ EL84s and stock 12AX7s
-Strings - D'Addario NYXL 11's
+Guitar - PRS SE Singlecut  
+Amp - Vox AC15 with JJ EL84s and stock 12AX7s  
+Strings - D'Addario NYXL 11's  
 
 Pedals (In order or signal chain):
 
