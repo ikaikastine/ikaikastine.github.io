@@ -6,8 +6,8 @@ excerpt: Short rundown of my guitar rig after pedalboard update
 
 ### Updated Pedalboard   
 For my birthday, my wonderful wife gifted me with a new pedal: the Boss DD-20 Giga Delay.
-This pedal has replaced my Flashback as my main delay pedal.
-The DD-20 is an awesome delay pedal with tons of functionality. Ive been using the following settings:   
+This pedal has replaced my Flashback as my main delay.
+The DD-20 is an awesome delay with tons of functionality. Ive been using the following settings:   
 
 1. Light tape delay on the dotted-eighth setting  
   * Used mainly for filling in the space behind my notes  
