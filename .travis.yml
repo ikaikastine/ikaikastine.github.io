@@ -6,5 +6,7 @@ script:
 env:
   global:
     - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up instsallation of html-proofer
+notifications:
+  slack: stine-dev:2PRM1l6MvBjOpBqPcOldhkqB
 
 sudo: flase # route your build to the container-based infrastructure for a faster build
